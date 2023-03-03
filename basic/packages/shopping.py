@@ -1,0 +1,3 @@
+def shop():
+  print("ranveer")
+
